@@ -13,7 +13,7 @@ include  'functions.php';
 
 
 ?>
-
+//test the ads
 <div style="padding-left:16px">
   <h2>Home</h2>
   <p>Home content will go here</p>
